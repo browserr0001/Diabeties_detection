@@ -1,0 +1,6 @@
+The project is about using a machine learning algorithm to predict if a person is diabetic or not.
+We use logistic regression and support vector machine for doing the same.
+During pre-processing we have identified the outliers and checked for their influence on the dataset to 
+make sure the accuracy is in check.
+The code submitted is a jupyter notebook file and can be run on kaggle.
+dataset to be added:https://www.kaggle.com/datasets/nancyalaswad90/review
